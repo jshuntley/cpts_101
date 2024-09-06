@@ -1,2 +1,3 @@
-# cpts_101
-CPTS practice repo
+CPTS 101 Pracice Repo
+Josh Huntley
+joshua.huntley@wsu.edu
